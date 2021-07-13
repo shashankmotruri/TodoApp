@@ -1,0 +1,12 @@
+.signInButton {
+    float:none;
+    position:static;
+    display:block;
+    margin:auto;
+    width:max-content;
+    border-radius: 50%;
+background: #f2eded;
+box-shadow:  15px 15px 30px #dcd8d8,
+             -15px -15px 30px #ffffff;
+    margin-top:20%;
+}
